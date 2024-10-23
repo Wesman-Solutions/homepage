@@ -8,6 +8,7 @@
 	description="Tailor-made SaaS solutions for everyone"
 	siteName="Wesman Solutions"
 	imageURL="https://wesmansolutions.com/banner.png"
+	canonical="https://wesmansolutions.com"
 />
 
 <Hero />
