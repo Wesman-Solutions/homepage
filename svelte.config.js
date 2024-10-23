@@ -17,7 +17,10 @@ const config = {
 			// these options are set automatically — see below
 			pages: 'docs',
 			assets: 'docs'
-		})
+		}),
+		paths: {
+			base: process.env.NODE_ENV === 'production' ? '/homepage' : ''
+		}
 	}
 };
 
