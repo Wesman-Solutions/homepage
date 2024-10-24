@@ -1,6 +1,6 @@
 # homepage
 
-Our beautiful homepage
+![Tailor-made SaaS solutions for everyone](https://github.com/Wesman-Solutions/homepage/blob/b344b8d680d5ec4815df078d28e19aae33e62867/static/banner.png)
 
 ## Developing
 
